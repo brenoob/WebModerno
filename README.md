@@ -1,7 +1,7 @@
 Modern Web with Javascript + Projects.
 
-Sections:
-                1: Introduction to the Web Development Course
+    Sections:
+             1: Introduction to the Web Development Course
      2: Configuring the Environment                 12: Web Concepts
      3: Getting Started with Programming            13: HTML
      4: Javascript - Fundamentals                   14: CSS
